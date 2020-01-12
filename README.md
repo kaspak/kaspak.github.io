@@ -18,4 +18,4 @@ Using HTML5Up's Dimensions template to display my projects on an online portfoli
 
 #### Optional Additions:
 - [ ] 1. Adding more design elements.
-- [ ] 2. A different project display formart.
+- [ ] 2. A different project display format.
