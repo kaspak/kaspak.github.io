@@ -1,21 +1,27 @@
 ## Kassy Pak's Project Portfolio Website
+<img src="https://github.com/kaspak/kaspak.github.io/blob/master/WebsiteDemo.gif" width=700>
 
 Using HTML5Up's Dimensions template to display my projects on an online portfolio.
 
 ### Current Website Features:
-- [X] 1. Changed title, description, and icons.
-- [X] 2. Added social media links to buttons under title description.
-- [X] 3. Changed bottom Tabs.
-  - [X] a. Edited "About" page description.
-  - [X] b. Added a "Resume" button.
-  - [X] c. Edited "Projects" page with a formatting template.
-  - [X] d. Edited "Contacts" page to redirect to a mailto link.
+- [X] 1. Social media links work: LinkedIn, Codepen, Github
+- [X] 2. About Me Header
+  - [X] a. Added profile image
+  - [X] b. Added description
+  - [X] c. Added link to projects page.
+  
+- [X] 2. Resume Header
+  - [X] a. Included a download link to March 2020 Updated Resume PDF file
 
-### Plan to Add:
-- [ ] 1. Provide profile photo for "About" page.
-- [ ] 2. Provide PDF download link for "Resume" button.
-- [ ] 3. Provide top 3 projects to display in "Projects" page.
+- [X] 3. Projects Header
+  - [X] a. Added Flashcards iOS App description & walkthrough gif
+  - [X] b. Added Python Pong App description
+  - [X] c. Added Strong Password Generator Project description
+  
+- [X] 4. Contact Header
+  - [X] a. linked mailto: my edu email
 
-#### Optional Additions:
-- [ ] 1. Adding more design elements.
-- [ ] 2. A different project display format.
+### Plan to Add/Edit:
+- [ ] 1. Add form in Contact Header
+- [ ] 2. Change wallpaper
+- [ ] 3. Add walkthrough gifs to projects in Project Header
