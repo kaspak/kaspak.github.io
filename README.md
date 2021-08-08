@@ -1,5 +1,5 @@
 ## Kassy Pak's Project Portfolio Website
-<img src="https://github.com/kaspak/kaspak.github.io/blob/master/WebsiteDemo.gif" width=700>
+<img src="https://github.com/kaspak/kaspak.github.io/blob/master/website-demo.gif" width=700>
 
 Editing HTML5Up's Dimensions template to display my projects on an online portfolio.
 
